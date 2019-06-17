@@ -1,0 +1,657 @@
+Season,Home Team,Away Team,Result,Winner,Diff
+2019,Bulls,Lions,48 : 27,Bulls,21
+2019,Stormers,Sharks,9 : 12,Sharks,-3
+2019,Brumbies,Reds,40 : 27,Brumbies,13
+2019,Hurricanes,Blues,29 : 24,Hurricanes,5
+2019,Jaguares,Sunwolves,52 : 10,Jaguares,42
+2019,Rebels,Chiefs,8 : 59,Chiefs,-51
+2019,Highlanders,Waratahs,49 : 12,Highlanders,37
+2019,Jaguares,Sharks,34 : 7,Jaguares,27
+2019,Stormers,Sunwolves,31 : 18,Stormers,13
+2019,Lions,Hurricanes,17 : 37,Hurricanes,-20
+2019,Waratahs,Brumbies,24 : 35,Brumbies,-11
+2019,Crusaders,Rebels,66 : 0,Crusaders,66
+2019,Reds,Blues,29 : 28,Reds,1
+2019,Highlanders,Bulls,24 : 24,-,0
+2019,Lions,Stormers,41 : 22,Lions,19
+2019,Sharks,Hurricanes,17 : 30,Hurricanes,-13
+2019,Reds,Jaguares,23 : 34,Jaguares,-11
+2019,Chiefs,Crusaders,40 : 27,Chiefs,13
+2019,Sunwolves,Brumbies,19 : 42,Brumbies,-23
+2019,Rebels,Waratahs,15 : 20,Waratahs,-5
+2019,Blues,Bulls,22 : 22,-,0
+2019,Sharks,Lions,27 : 17,Sharks,10
+2019,Stormers,Highlanders,34 : 22,Stormers,12
+2019,Waratahs,Jaguares,15 : 23,Jaguares,-8
+2019,Crusaders,Blues,19 : 11,Crusaders,8
+2019,Sunwolves,Rebels,7 : 52,Rebels,-45
+2019,Brumbies,Bulls,22 : 10,Brumbies,12
+2019,Chiefs,Reds,19 : 13,Chiefs,6
+2019,Stormers,Crusaders,19 : 19,-,0
+2019,Lions,Highlanders,38 : 29,Lions,9
+2019,Reds,Waratahs,32 : 40,Waratahs,-8
+2019,Blues,Chiefs,23 : 8,Blues,15
+2019,Rebels,Bulls,17 : 32,Bulls,-15
+2019,Hurricanes,Jaguares,20 : 28,Jaguares,-8
+2019,Brumbies,Sunwolves,33 : 0,Brumbies,33
+2019,Lions,Waratahs,29 : 28,Lions,1
+2019,Chiefs,Sharks,29 : 23,Chiefs,6
+2019,Highlanders,Jaguares,32 : 27,Highlanders,5
+2019,Bulls,Crusaders,13 : 45,Crusaders,-32
+2019,Rebels,Reds,30 : 24,Rebels,6
+2019,Blues,Hurricanes,12 : 22,Hurricanes,-10
+2019,Jaguares,Stormers,30 : 25,Jaguares,5
+2019,Bulls,Waratahs,28 : 21,Bulls,7
+2019,Brumbies,Blues,26 : 21,Brumbies,5
+2019,Highlanders,Chiefs,31 : 31,-,0
+2019,Hurricanes,Rebels,29 : 19,Hurricanes,10
+2019,Reds,Sunwolves,32 : 26,Reds,6
+2019,Crusaders,Sharks,21 : 21,-,0
+2019,Jaguares,Brumbies,20 : 15,Jaguares,5
+2019,Stormers,Bulls,24 : 23,Stormers,1
+2019,Waratahs,Sharks,15 : 23,Sharks,-8
+2019,Hurricanes,Chiefs,47 : 19,Hurricanes,28
+2019,Sunwolves,Highlanders,0 : 52,Highlanders,-52
+2019,Crusaders,Lions,36 : 10,Crusaders,26
+2019,Stormers,Brumbies,17 : 19,Brumbies,-2
+2019,Waratahs,Rebels,23 : 20,Waratahs,3
+2019,Highlanders,Blues,24 : 12,Highlanders,12
+2019,Sharks,Reds,14 : 21,Reds,-7
+2019,Sunwolves,Hurricanes,23 : 29,Hurricanes,-6
+2019,Chiefs,Lions,17 : 23,Lions,-6
+2019,Bulls,Reds,32 : 17,Bulls,15
+2019,Sharks,Jaguares,17 : 51,Jaguares,-34
+2019,Brumbies,Lions,31 : 20,Brumbies,11
+2019,Chiefs,Blues,33 : 29,Chiefs,4
+2019,Rebels,Stormers,24 : 41,Stormers,-17
+2019,Crusaders,Highlanders,43 : 17,Crusaders,26
+2019,Bulls,Jaguares,20 : 22,Jaguares,-2
+2019,Rebels,Sunwolves,42 : 15,Rebels,27
+2019,Blues,Waratahs,32 : 29,Blues,3
+2019,Crusaders,Brumbies,36 : 14,Crusaders,22
+2019,Lions,Sharks,5 : 42,Sharks,-37
+2019,Reds,Stormers,24 : 12,Reds,12
+2019,Highlanders,Hurricanes,28 : 31,Hurricanes,-3
+2019,Jaguares,Chiefs,27 : 30,Chiefs,-3
+2019,Sharks,Bulls,16 : 19,Bulls,-3
+2019,Reds,Rebels,13 : 32,Rebels,-19
+2019,Blues,Stormers,24 : 9,Blues,15
+2019,Waratahs,Sunwolves,29 : 31,Sunwolves,-2
+2019,Hurricanes,Crusaders,8 : 32,Crusaders,-24
+2019,Reds,Brumbies,36 : 14,Reds,22
+2019,Sharks,Rebels,28 : 14,Sharks,14
+2019,Bulls,Chiefs,20 : 56,Chiefs,-36
+2019,Sunwolves,Lions,24 : 37,Lions,-13
+2019,Waratahs,Crusaders,20 : 12,Waratahs,8
+2019,Hurricanes,Stormers,34 : 28,Hurricanes,6
+2019,Blues,Highlanders,33 : 26,Blues,7
+2019,Lions,Rebels,36 : 33,Lions,3
+2019,Highlanders,Crusaders,0 : 0,-,0
+2019,Sunwolves,Reds,31 : 34,Reds,-3
+2019,Stormers,Jaguares,35 : 8,Stormers,27
+2019,Brumbies,Waratahs,19 : 13,Brumbies,6
+2019,Chiefs,Hurricanes,23 : 23,-,0
+2019,Bulls,Sharks,37 : 14,Bulls,23
+2019,Lions,Jaguares,47 : 39,Lions,8
+2019,Waratahs,Reds,28 : 17,Waratahs,11
+2019,Blues,Sunwolves,28 : 20,Blues,8
+2019,Crusaders,Chiefs,57 : 28,Crusaders,29
+2019,Rebels,Brumbies,29 : 26,Rebels,3
+2019,Hurricanes,Highlanders,25 : 22,Hurricanes,3
+2019,Jaguares,Blues,23 : 19,Jaguares,4
+2019,Sharks,Stormers,11 : 16,Stormers,-5
+2019,Lions,Bulls,12 : 30,Bulls,-18
+2019,Reds,Crusaders,12 : 22,Crusaders,-10
+2019,Chiefs,Sunwolves,15 : 30,Sunwolves,-15
+2019,Rebels,Highlanders,24 : 19,Rebels,5
+2019,Hurricanes,Brumbies,43 : 13,Hurricanes,30
+2019,Jaguares,Bulls,27 : 12,Jaguares,15
+2019,Stormers,Lions,19 : 17,Stormers,2
+2019,Sharks,Blues,26 : 7,Sharks,19
+2019,Brumbies,Chiefs,54 : 17,Brumbies,37
+2019,Crusaders,Hurricanes,38 : 22,Crusaders,16
+2019,Sunwolves,Waratahs,30 : 31,Waratahs,-1
+2019,Highlanders,Reds,36 : 31,Highlanders,5
+2019,Jaguares,Lions,16 : 25,Lions,-9
+2019,Bulls,Stormers,40 : 3,Bulls,37
+2019,Sunwolves,Sharks,10 : 45,Sharks,-35
+2019,Waratahs,Hurricanes,19 : 20,Hurricanes,-1
+2019,Blues,Crusaders,22 : 24,Crusaders,-2
+2019,Brumbies,Rebels,27 : 34,Rebels,-7
+2019,Chiefs,Highlanders,27 : 30,Highlanders,-3
+2018,Crusaders ,Lions,37 : 18,Crusaders ,19
+2018,Lions ,Waratahs,44 : 26,Lions ,18
+2018,Crusaders ,Hurricanes,30 : 12,Crusaders ,18
+2018,Lions ,Jaguares,40 : 23,Lions ,17
+2018,Waratahs ,Highlanders,30 : 23,Waratahs ,7
+2018,Crusaders ,Sharks,40 : 10,Crusaders ,30
+2018,Hurricanes ,Chiefs,32 : 31,Hurricanes ,1
+2018,Sharks,Jaguares,20 : 10,Sharks,10
+2018,Lions,Bulls,38 : 12,Lions,26
+2018,Waratahs,Brumbies,31 : 40,Brumbies,-9
+2018,Crusaders,Blues,54 : 17,Crusaders,37
+2018,Highlanders,Rebels,43 : 37,Highlanders,6
+2018,Reds,Sunwolves,48 : 27,Reds,21
+2018,Chiefs,Hurricanes,28 : 24,Chiefs,4
+2018,Stormers,Sharks,27 : 16,Stormers,11
+2018,Bulls,Jaguares,43 : 34,Bulls,9
+2018,Waratahs,Sunwolves,77 : 25,Waratahs,52
+2018,Hurricanes,Blues,42 : 24,Hurricanes,18
+2018,Chiefs,Brumbies,24 : 19,Chiefs,5
+2018,Reds,Rebels,37 : 23,Reds,14
+2018,Crusaders,Highlanders,45 : 22,Crusaders,23
+2018,Jaguares,Stormers,25 : 14,Jaguares,11
+2018,Sharks,Lions,31 : 24,Sharks,7
+2018,Sunwolves,Bulls,42 : 37,Sunwolves,5
+2018,Brumbies,Hurricanes,24 : 12,Brumbies,12
+2018,Highlanders,Chiefs,22 : 45,Chiefs,-23
+2018,Rebels,Waratahs,26 : 31,Waratahs,-5
+2018,Blues,Reds,39 : 16,Blues,23
+2018,Brumbies,Sunwolves,41 : 31,Brumbies,10
+2018,Reds,Waratahs,41 : 52,Waratahs,-11
+2018,Chiefs,Crusaders,20 : 34,Crusaders,-14
+2018,Blues,Rebels,10 : 20,Rebels,-10
+2018,Highlanders,Hurricanes,30 : 14,Highlanders,16
+2018,Stormers,Lions,23 : 26,Lions,-3
+2018,Bulls,Brumbies,28 : 38,Brumbies,-10
+2018,Reds,Highlanders,15 : 18,Highlanders,-3
+2018,Chiefs,Waratahs,39 : 27,Chiefs,12
+2018,Jaguares,Sharks,29 : 13,Jaguares,16
+2018,Rebels,Sunwolves,40 : 13,Rebels,27
+2018,Crusaders,Hurricanes,24 : 13,Crusaders,11
+2018,Jaguares,Bulls,54 : 24,Jaguares,30
+2018,Lions,Brumbies,42 : 24,Lions,18
+2018,Sharks,Chiefs,28 : 24,Sharks,4
+2018,Waratahs,Highlanders,41 : 12,Waratahs,29
+2018,Blues,Crusaders,24 : 32,Crusaders,-8
+2018,Sunwolves,Stormers,26 : 23,Sunwolves,3
+2018,Hurricanes,Reds,38 : 34,Hurricanes,4
+2018,Bulls,Sharks,39 : 33,Bulls,6
+2018,Stormers,Chiefs,9 : 15,Chiefs,-6
+2018,Brumbies,Rebels,24 : 27,Rebels,-3
+2018,Highlanders,Lions,39 : 27,Highlanders,12
+2018,Crusaders,Waratahs,31 : 29,Crusaders,2
+2018,Sunwolves,Reds,63 : 28,Sunwolves,35
+2018,Blues,Hurricanes,15 : 36,Hurricanes,-21
+2018,Sharks,Highlanders,38 : 12,Sharks,26
+2018,Stormers,Bulls,29 : 17,Stormers,12
+2018,Waratahs,Blues,21 : 24,Blues,-3
+2018,Hurricanes,Lions,28 : 19,Hurricanes,9
+2018,Rebels,Crusaders,10 : 55,Crusaders,-45
+2018,Chiefs,Jaguares,19 : 23,Jaguares,-4
+2018,Bulls,Highlanders,28 : 29,Highlanders,-1
+2018,Brumbies,Crusaders,8 : 21,Crusaders,-13
+2018,Blues,Jaguares,13 : 20,Jaguares,-7
+2018,Reds,Lions,27 : 22,Reds,5
+2018,Stormers,Rebels,34 : 18,Stormers,16
+2018,Hurricanes,Sunwolves,43 : 15,Hurricanes,28
+2018,Brumbies,Jaguares,20 : 25,Jaguares,-5
+2018,Sharks,Stormers,24 : 17,Sharks,7
+2018,Bulls,Rebels,28 : 10,Bulls,18
+2018,Reds,Chiefs,12 : 36,Chiefs,-24
+2018,Crusaders,Sunwolves,33 : 11,Crusaders,22
+2018,Waratahs,Lions,0 : 29,Lions,-29
+2018,Blues,Highlanders,16 : 34,Highlanders,-18
+2018,Sharks,Bulls,10 : 40,Bulls,-30
+2018,Waratahs,Reds,37 : 16,Waratahs,21
+2018,Highlanders,Brumbies,43 : 17,Highlanders,26
+2018,Rebels,Jaguares,22 : 25,Jaguares,-3
+2018,Sunwolves,Blues,10 : 24,Blues,-14
+2018,Hurricanes,Chiefs,25 : 13,Hurricanes,12
+2018,Jaguares,Crusaders,14 : 40,Crusaders,-26
+2018,Lions,Stormers,52 : 31,Lions,21
+2018,Brumbies,Reds,45 : 21,Brumbies,24
+2018,Chiefs,Blues,21 : 19,Chiefs,2
+2018,Sunwolves,Waratahs,29 : 50,Waratahs,-21
+2018,Hurricanes,Sharks,38 : 37,Hurricanes,1
+2018,Lions,Crusaders,8 : 14,Crusaders,-6
+2018,Bulls,Stormers,33 : 23,Bulls,10
+2018,Brumbies,Waratahs,17 : 24,Waratahs,-7
+2018,Blues,Sharks,40 : 63,Sharks,-23
+2018,Rebels,Hurricanes,19 : 50,Hurricanes,-31
+2018,Chiefs,Highlanders,27 : 22,Chiefs,5
+2018,Jaguares,Lions,49 : 35,Jaguares,14
+2018,Stormers,Reds,25 : 19,Stormers,6
+2018,Hurricanes,Highlanders,29 : 12,Hurricanes,17
+2018,Sunwolves,Chiefs,10 : 61,Chiefs,-51
+2018,Rebels,Sharks,46 : 14,Rebels,32
+2018,Crusaders,Bulls,33 : 14,Crusaders,19
+2018,Waratahs,Rebels,51 : 27,Waratahs,24
+2018,Jaguares,Reds,7 : 18,Reds,-11
+2018,Lions,Sunwolves,40 : 38,Lions,2
+2018,Stormers,Blues,37 : 20,Stormers,17
+2018,Brumbies,Sharks,24 : 17,Brumbies,7
+2018,Highlanders,Crusaders,25 : 17,Highlanders,8
+2018,Chiefs,Bulls,41 : 28,Chiefs,13
+2018,Jaguares,Waratahs,38 : 28,Jaguares,10
+2018,Lions,Blues,35 : 38,Blues,-3
+2018,Sharks,Sunwolves,50 : 22,Sharks,28
+2018,Reds,Bulls,20 : 14,Reds,6
+2018,Hurricanes,Crusaders,29 : 19,Hurricanes,10
+2018,Rebels,Brumbies,33 : 10,Rebels,23
+2018,Highlanders,Stormers,33 : 15,Highlanders,18
+2018,Jaguares,Hurricanes,9 : 34,Hurricanes,-25
+2018,Bulls,Lions,35 : 49,Lions,-14
+2018,Sharks,Waratahs,24 : 24,-,0
+2018,Crusaders,Stormers,45 : 28,Crusaders,17
+2018,Sunwolves,Rebels,17 : 37,Rebels,-20
+2018,Reds,Brumbies,18 : 10,Reds,8
+2018,Blues,Chiefs,21 : 27,Chiefs,-6
+2018,Bulls,Hurricanes,21 : 19,Bulls,2
+2018,Lions,Jaguares,47 : 27,Lions,20
+2018,Waratahs,Stormers,34 : 27,Waratahs,7
+2018,Crusaders,Chiefs,45 : 23,Crusaders,22
+2018,Sunwolves,Brumbies,25 : 32,Brumbies,-7
+2018,Rebels,Reds,45 : 19,Rebels,26
+2018,Highlanders,Blues,41 : 34,Highlanders,7
+2018,Lions,Sharks,26 : 19,Lions,7
+2018,Stormers,Jaguares,28 : 20,Stormers,8
+2017,Lions,Crusaders ,17 : 25,Crusaders ,-8
+2017,Lions ,Hurricanes,44 : 29,Lions ,15
+2017,Crusaders ,Chiefs,27 : 13,Crusaders ,14
+2017,Stormers,Chiefs ,11 : 17,Chiefs ,-6
+2017,Lions ,Sharks,23 : 21,Lions ,2
+2017,Crusaders ,Highlanders,17 : 0,Crusaders ,17
+2017,Brumbies,Hurricanes ,16 : 35,Hurricanes ,-19
+2017,Sharks,Lions,10 : 27,Lions,-17
+2017,Bulls,Stormers,33 : 41,Stormers,-8
+2017,Western Force,Waratahs,40 : 11,Western Force,29
+2017,Hurricanes,Crusaders,31 : 22,Hurricanes,9
+2017,Chiefs,Brumbies,28 : 10,Chiefs,18
+2017,Sunwolves,Blues,48 : 21,Sunwolves,27
+2017,Southern Kings,Cheetahs,20 : 21,Cheetahs,-1
+2017,Rebels,Jaguares,29 : 32,Jaguares,-3
+2017,Highlanders,Reds,40 : 17,Highlanders,23
+2017,Stormers,Sunwolves,52 : 15,Stormers,37
+2017,Bulls,Southern Kings,30 : 31,Southern Kings,-1
+2017,Waratahs,Jaguares,27 : 40,Jaguares,-13
+2017,Western Force,Rebels,31 : 22,Western Force,9
+2017,Reds,Brumbies,16 : 15,Reds,1
+2017,Lions,Sunwolves,94 : 7,Lions,87
+2017,Cheetahs,Stormers,34 : 40,Stormers,-6
+2017,Jaguares,Southern Kings,30 : 31,Southern Kings,-1
+2017,Sharks,Bulls,17 : 30,Bulls,-13
+2017,Hurricanes,Chiefs,14 : 17,Chiefs,-3
+2017,Western Force,Hurricanes,12 : 34,Hurricanes,-22
+2017,Brumbies,Rebels,32 : 3,Brumbies,29
+2017,Chiefs,Waratahs,46 : 31,Chiefs,15
+2017,Crusaders,Highlanders,25 : 22,Crusaders,3
+2017,Blues,Reds,34 : 29,Blues,5
+2017,Lions,Southern Kings,54 : 10,Lions,44
+2017,Jaguares,Brumbies,15 : 39,Brumbies,-24
+2017,Sharks,Stormers,22 : 10,Sharks,12
+2017,Bulls,Hurricanes,20 : 34,Hurricanes,-14
+2017,Rebels,Crusaders,19 : 41,Crusaders,-22
+2017,Highlanders,Waratahs,44 : 28,Highlanders,16
+2017,Sunwolves,Cheetahs,7 : 47,Cheetahs,-40
+2017,Reds,Western Force,26 : 40,Western Force,-14
+2017,Blues,Chiefs,16 : 16,-,0
+2017,Waratahs,Rebels,50 : 23,Waratahs,27
+2017,Southern Kings,Brumbies,10 : 19,Brumbies,-9
+2017,Lions,Bulls,51 : 14,Lions,37
+2017,Sunwolves,Sharks,17 : 38,Sharks,-21
+2017,Western Force,Highlanders,6 : 55,Highlanders,-49
+2017,Hurricanes,Cheetahs,61 : 7,Hurricanes,54
+2017,Stormers,Blues,30 : 22,Stormers,8
+2017,Chiefs,Crusaders,24 : 31,Crusaders,-7
+2017,Jaguares,Western Force,6 : 16,Western Force,-10
+2017,Southern Kings,Sharks,35 : 32,Southern Kings,3
+2017,Bulls,Highlanders,10 : 17,Highlanders,-7
+2017,Rebels,Reds,24 : 29,Reds,-5
+2017,Crusaders,Hurricanes,20 : 12,Crusaders,8
+2017,Brumbies,Lions,6 : 13,Lions,-7
+2017,Blues,Cheetahs,50 : 32,Blues,18
+2017,Jaguares,Sunwolves,46 : 39,Jaguares,7
+2017,Bulls,Crusaders,24 : 62,Crusaders,-38
+2017,Sharks,Western Force,37 : 12,Sharks,25
+2017,Waratahs,Blues,33 : 40,Blues,-7
+2017,Chiefs,Reds,46 : 17,Chiefs,29
+2017,Rebels,Lions,10 : 47,Lions,-37
+2017,Cheetahs,Highlanders,41 : 45,Highlanders,-4
+2017,Hurricanes,Stormers,41 : 22,Hurricanes,19
+2017,Brumbies,Blues,12 : 18,Blues,-6
+2017,Jaguares,Sharks,25 : 33,Sharks,-8
+2017,Southern Kings,Rebels,44 : 3,Southern Kings,41
+2017,Cheetahs,Crusaders,21 : 48,Crusaders,-27
+2017,Western Force,Lions,15 : 24,Lions,-9
+2017,Reds,Waratahs,26 : 29,Waratahs,-3
+2017,Chiefs,Sunwolves,27 : 20,Chiefs,7
+2017,Highlanders,Stormers,57 : 14,Highlanders,43
+2017,Sharks,Rebels,9 : 9,-,0
+2017,Bulls,Cheetahs,20 : 14,Bulls,6
+2017,Western Force,Chiefs,7 : 16,Chiefs,-9
+2017,Crusaders,Stormers,57 : 24,Crusaders,33
+2017,Highlanders,Sunwolves,40 : 15,Highlanders,25
+2017,Lions,Jaguares,24 : 21,Lions,3
+2017,Waratahs,Southern Kings,24 : 26,Southern Kings,-2
+2017,Hurricanes,Brumbies,56 : 21,Hurricanes,35
+2017,Bulls,Jaguares,26 : 13,Bulls,13
+2017,Stormers,Lions,16 : 29,Lions,-13
+2017,Cheetahs,Chiefs,27 : 41,Chiefs,-14
+2017,Rebels,Brumbies,19 : 17,Rebels,2
+2017,Blues,Hurricanes,24 : 28,Hurricanes,-4
+2017,Reds,Southern Kings,47 : 34,Reds,13
+2017,Crusaders,Sunwolves,50 : 3,Crusaders,47
+2017,Western Force,Southern Kings,46 : 41,Western Force,5
+2017,Stormers,Chiefs,34 : 26,Stormers,8
+2017,Sharks,Jaguares,18 : 13,Sharks,5
+2017,Brumbies,Reds,43 : 10,Brumbies,33
+2017,Highlanders,Blues,26 : 20,Highlanders,6
+2017,Sunwolves,Bulls,21 : 20,Sunwolves,1
+2017,Hurricanes,Waratahs,38 : 28,Hurricanes,10
+2017,Waratahs,Crusaders,22 : 41,Crusaders,-19
+2017,Lions,Sharks,34 : 29,Lions,5
+2017,Stormers,Cheetahs,53 : 10,Stormers,43
+2017,Reds,Hurricanes,15 : 34,Hurricanes,-19
+2017,Chiefs,Bulls,28 : 12,Chiefs,16
+2017,Blues,Western Force,24 : 15,Blues,9
+2017,Highlanders,Rebels,51 : 12,Highlanders,39
+2017,Jaguares,Reds,22 : 8,Jaguares,14
+2017,Cheetahs,Sharks,30 : 38,Sharks,-8
+2017,Southern Kings,Lions,19 : 42,Lions,-23
+2017,Sunwolves,Stormers,31 : 44,Stormers,-13
+2017,Brumbies,Highlanders,13 : 18,Highlanders,-5
+2017,Blues,Bulls,38 : 14,Blues,24
+2017,Rebels,Waratahs,25 : 32,Waratahs,-7
+2017,Crusaders,Western Force,45 : 17,Crusaders,28
+2017,Jaguares,Cheetahs,41 : 14,Jaguares,27
+2017,Sharks,Southern Kings,19 : 17,Sharks,2
+2017,Lions,Reds,44 : 14,Lions,30
+2017,Waratahs,Brumbies,12 : 28,Brumbies,-16
+2017,Hurricanes,Highlanders,41 : 15,Hurricanes,26
+2017,Bulls,Sunwolves,34 : 21,Bulls,13
+2017,Rebels,Chiefs,14 : 27,Chiefs,-13
+2017,Crusaders,Blues,33 : 24,Crusaders,9
+2017,Jaguares,Lions,36 : 24,Jaguares,12
+2017,Sharks,Waratahs,37 : 14,Sharks,23
+2017,Cheetahs,Sunwolves,38 : 31,Cheetahs,7
+2017,Southern Kings,Stormers,10 : 41,Stormers,-31
+2017,Reds,Crusaders,20 : 22,Crusaders,-2
+2017,Blues,Highlanders,12 : 16,Highlanders,-4
+2017,Brumbies,Western Force,25 : 17,Brumbies,8
+2017,Chiefs,Hurricanes,26 : 18,Chiefs,8
+2017,Cheetahs,Bulls,34 : 28,Cheetahs,6
+2017,Stormers,Jaguares,32 : 25,Stormers,7
+2017,Lions,Waratahs,55 : 36,Lions,19
+2017,Sunwolves,Southern Kings,23 : 37,Southern Kings,-14
+2017,Brumbies,Sharks,22 : 27,Sharks,-5
+2017,Highlanders,Crusaders,27 : 30,Crusaders,-3
+2017,Hurricanes,Rebels,71 : 6,Hurricanes,65
+2017,Chiefs,Blues,41 : 26,Chiefs,15
+2017,Western Force,Reds,26 : 19,Western Force,7
+2017,Stormers,Bulls,37 : 24,Stormers,13
+2017,Southern Kings,Jaguares,26 : 39,Jaguares,-13
+2017,Cheetahs,Lions,25 : 28,Lions,-3
+2017,Waratahs,Western Force,19 : 13,Waratahs,6
+2017,Crusaders,Brumbies,17 : 13,Crusaders,4
+2017,Sunwolves,Hurricanes,17 : 83,Hurricanes,-66
+2017,Reds,Sharks,28 : 26,Reds,2
+2017,Highlanders,Chiefs,15 : 24,Chiefs,-9
+2017,Rebels,Blues,18 : 56,Blues,-38
+2016,Hurricanes ,Lions,20 : 3,Hurricanes ,17
+2016,Lions ,Highlanders,42 : 30,Lions ,12
+2016,Hurricanes ,Chiefs,25 : 9,Hurricanes ,16
+2016,Stormers,Chiefs ,21 : 60,Chiefs ,-39
+2016,Lions ,Crusaders,42 : 25,Lions ,17
+2016,Hurricanes ,Sharks,41 : 0,Hurricanes ,41
+2016,Brumbies,Highlanders ,9 : 15,Highlanders ,-6
+2016,Jaguares,Lions,34 : 22,Jaguares,12
+2016,Cheetahs,Bulls,17 : 43,Bulls,-26
+2016,Stormers,Southern Kings,52 : 24,Stormers,28
+2016,Brumbies,Western Force,24 : 10,Brumbies,14
+2016,Highlanders,Chiefs,25 : 15,Highlanders,10
+2016,Crusaders,Hurricanes,10 : 35,Hurricanes,-25
+2016,Sharks,Sunwolves,40 : 29,Sharks,11
+2016,Reds,Rebels,28 : 31,Rebels,-3
+2016,Blues,Waratahs,34 : 28,Blues,6
+2016,Jaguares,Highlanders,8 : 34,Highlanders,-26
+2016,Sharks,Cheetahs,26 : 10,Sharks,16
+2016,Bulls,Sunwolves,50 : 3,Bulls,47
+2016,Western Force,Stormers,3 : 22,Stormers,-19
+2016,Waratahs,Hurricanes,17 : 28,Hurricanes,-11
+2016,Crusaders,Rebels,85 : 26,Crusaders,59
+2016,Lions,Southern Kings,57 : 21,Lions,36
+2016,Reds,Chiefs,5 : 50,Chiefs,-45
+2016,Blues,Brumbies,40 : 15,Blues,25
+2016,Jaguares,Bulls,29 : 11,Jaguares,18
+2016,Southern Kings,Highlanders,18 : 48,Highlanders,-30
+2016,Lions,Sharks,37 : 10,Lions,27
+2016,Cheetahs,Western Force,30 : 29,Cheetahs,1
+2016,Rebels,Stormers,31 : 57,Stormers,-26
+2016,Hurricanes,Blues,37 : 27,Hurricanes,10
+2016,Sunwolves,Waratahs,12 : 57,Waratahs,-45
+2016,Brumbies,Reds,43 : 24,Brumbies,19
+2016,Chiefs,Crusaders,23 : 13,Chiefs,10
+2016,Rebels,Western Force,27 : 22,Rebels,5
+2016,Bulls,Lions,20 : 56,Lions,-36
+2016,Stormers,Cheetahs,31 : 24,Stormers,7
+2016,Brumbies,Sunwolves,66 : 5,Brumbies,61
+2016,Blues,Crusaders,21 : 26,Crusaders,-5
+2016,Southern Kings,Jaguares,29 : 22,Southern Kings,7
+2016,Waratahs,Chiefs,45 : 25,Waratahs,20
+2016,Hurricanes,Highlanders,27 : 20,Hurricanes,7
+2016,Bulls,Stormers,17 : 13,Bulls,4
+2016,Sharks,Southern Kings,53 : 0,Sharks,53
+2016,Lions,Jaguares,52 : 24,Lions,28
+2016,Western Force,Blues,13 : 17,Blues,-4
+2016,Chiefs,Rebels,36 : 15,Chiefs,21
+2016,Reds,Sunwolves,35 : 25,Reds,10
+2016,Crusaders,Waratahs,29 : 10,Crusaders,19
+2016,Jaguares,Sharks,22 : 25,Sharks,-3
+2016,Lions,Blues,43 : 5,Lions,38
+2016,Cheetahs,Southern Kings,34 : 20,Cheetahs,14
+2016,Sunwolves,Stormers,17 : 17,-,0
+2016,Waratahs,Bulls,31 : 8,Waratahs,23
+2016,Hurricanes,Reds,29 : 14,Hurricanes,15
+2016,Rebels,Brumbies,22 : 30,Brumbies,-8
+2016,Highlanders,Crusaders,34 : 26,Highlanders,8
+2016,Southern Kings,Blues,18 : 34,Blues,-16
+2016,Sharks,Hurricanes,32 : 15,Sharks,17
+2016,Waratahs,Cheetahs,21 : 6,Waratahs,15
+2016,Chiefs,Highlanders,13 : 26,Highlanders,-13
+2016,Sunwolves,Western Force,22 : 40,Western Force,-18
+2016,Brumbies,Bulls,23 : 6,Brumbies,17
+2016,Crusaders,Reds,38 : 5,Crusaders,33
+2016,Jaguares,Southern Kings,73 : 27,Jaguares,46
+2016,Stormers,Waratahs,30 : 32,Waratahs,-2
+2016,Lions,Hurricanes,17 : 50,Hurricanes,-33
+2016,Reds,Cheetahs,30 : 17,Reds,13
+2016,Highlanders,Brumbies,23 : 10,Highlanders,13
+2016,Blues,Rebels,36 : 30,Blues,6
+2016,Western Force,Bulls,20 : 42,Bulls,-22
+2016,Chiefs,Sharks,24 : 22,Chiefs,2
+2016,Brumbies,Crusaders,14 : 40,Crusaders,-26
+2016,Southern Kings,Lions,10 : 45,Lions,-35
+2016,Stormers,Reds,40 : 22,Stormers,18
+2016,Western Force,Waratahs,13 : 49,Waratahs,-36
+2016,Hurricanes,Chiefs,27 : 28,Chiefs,-1
+2016,Sunwolves,Jaguares,36 : 28,Sunwolves,8
+2016,Rebels,Cheetahs,36 : 14,Rebels,22
+2016,Highlanders,Sharks,14 : 15,Sharks,-1
+2016,Lions,Stormers,29 : 22,Lions,7
+2016,Bulls,Reds,41 : 22,Bulls,19
+2016,Waratahs,Brumbies,20 : 26,Brumbies,-6
+2016,Blues,Sharks,23 : 18,Blues,5
+2016,Cheetahs,Sunwolves,92 : 17,Cheetahs,75
+2016,Rebels,Hurricanes,13 : 38,Hurricanes,-25
+2016,Crusaders,Jaguares,32 : 15,Crusaders,17
+2016,Southern Kings,Bulls,6 : 38,Bulls,-32
+2016,Sharks,Lions,9 : 24,Lions,-15
+2016,Reds,Highlanders,28 : 27,Reds,1
+2016,Hurricanes,Jaguares,40 : 22,Hurricanes,18
+2016,Stormers,Sunwolves,46 : 19,Stormers,27
+2016,Western Force,Crusaders,19 : 20,Crusaders,-1
+2016,Chiefs,Blues,29 : 23,Chiefs,6
+2016,Waratahs,Rebels,17 : 21,Rebels,-4
+2016,Bulls,Cheetahs,23 : 18,Bulls,5
+2016,Southern Kings,Sunwolves,33 : 28,Southern Kings,5
+2016,Brumbies,Chiefs,23 : 48,Chiefs,-25
+2016,Blues,Jaguares,24 : 16,Blues,8
+2016,Lions,Crusaders,37 : 43,Crusaders,-6
+2016,Highlanders,Western Force,32 : 20,Highlanders,12
+2016,Reds,Waratahs,13 : 15,Waratahs,-2
+2016,Jaguares,Stormers,8 : 13,Stormers,-5
+2016,Sharks,Crusaders,14 : 19,Crusaders,-5
+2016,Cheetahs,Brumbies,18 : 25,Brumbies,-7
+2016,Sunwolves,Bulls,27 : 30,Bulls,-3
+2016,Rebels,Highlanders,3 : 27,Highlanders,-24
+2016,Chiefs,Western Force,53 : 10,Chiefs,43
+2016,Hurricanes,Southern Kings,42 : 20,Hurricanes,22
+2016,Jaguares,Chiefs,26 : 30,Chiefs,-4
+2016,Stormers,Brumbies,31 : 11,Stormers,20
+2016,Lions,Cheetahs,39 : 22,Lions,17
+2016,Reds,Blues,25 : 25,-,0
+2016,Crusaders,Southern Kings,57 : 24,Crusaders,33
+2016,Sunwolves,Rebels,9 : 35,Rebels,-26
+2016,Bulls,Sharks,16 : 16,-,0
+2016,Waratahs,Highlanders,26 : 30,Highlanders,-4
+2016,Hurricanes,Western Force,41 : 6,Hurricanes,35
+2016,Stormers,Sharks,13 : 18,Sharks,-5
+2016,Southern Kings,Chiefs,24 : 58,Chiefs,-34
+2016,Sunwolves,Cheetahs,31 : 32,Cheetahs,-1
+2016,Rebels,Reds,25 : 23,Rebels,2
+2016,Highlanders,Lions,34 : 15,Highlanders,19
+2016,Western Force,Brumbies,14 : 31,Brumbies,-17
+2016,Blues,Hurricanes,19 : 23,Hurricanes,-4
+2016,Sharks,Jaguares,19 : 15,Sharks,4
+2016,Cheetahs,Stormers,10 : 20,Stormers,-10
+2016,Bulls,Rebels,45 : 25,Bulls,20
+2016,Reds,Western Force,6 : 22,Western Force,-16
+2016,Highlanders,Hurricanes,17 : 16,Highlanders,1
+2016,Chiefs,Lions,32 : 36,Lions,-4
+2016,Brumbies,Waratahs,32 : 15,Brumbies,17
+2016,Crusaders,Blues,28 : 13,Crusaders,15
+2016,Stormers,Bulls,33 : 9,Stormers,24
+2016,Southern Kings,Sharks,8 : 43,Sharks,-35
+2016,Western Force,Rebels,19 : 25,Rebels,-6
+2016,Waratahs,Reds,30 : 10,Waratahs,20
+2016,Crusaders,Chiefs,21 : 27,Chiefs,-6
+2016,Sunwolves,Lions,13 : 26,Lions,-13
+2016,Cheetahs,Jaguares,33 : 34,Jaguares,-1
+2016,Brumbies,Hurricanes,52 : 10,Brumbies,42
+2016,Blues,Highlanders,33 : 31,Blues,2
+2015,Hurricanes,Highlanders ,14 : 21,Highlanders ,-7
+2015,Waratahs,Highlanders ,17 : 35,Highlanders ,-18
+2015,Hurricanes ,Brumbies,29 : 9,Hurricanes ,20
+2015,Stormers,Brumbies ,19 : 39,Brumbies ,-20
+2015,Highlanders ,Chiefs,24 : 14,Highlanders ,10
+2015,Sharks,Stormers,34 : 12,Sharks,22
+2015,Bulls,Cheetahs,29 : 42,Cheetahs,-13
+2015,Waratahs,Reds,31 : 5,Waratahs,26
+2015,Chiefs,Hurricanes,13 : 21,Hurricanes,-8
+2015,Brumbies,Crusaders,24 : 37,Crusaders,-13
+2015,Rebels,Western Force,11 : 13,Western Force,-2
+2015,Blues,Highlanders,7 : 44,Highlanders,-37
+2015,Stormers,Lions,19 : 19,-,0
+2015,Cheetahs,Waratahs,33 : 58,Waratahs,-25
+2015,Reds,Chiefs,3 : 24,Chiefs,-21
+2015,Blues,Crusaders,11 : 34,Crusaders,-23
+2015,Rebels,Bulls,21 : 20,Rebels,1
+2015,Western Force,Brumbies,20 : 33,Brumbies,-13
+2015,Hurricanes,Highlanders,56 : 20,Hurricanes,36
+2015,Lions,Waratahs,27 : 22,Lions,5
+2015,Stormers,Cheetahs,42 : 12,Stormers,30
+2015,Western Force,Reds,10 : 32,Reds,-22
+2015,Highlanders,Chiefs,36 : 9,Highlanders,27
+2015,Sharks,Rebels,25 : 21,Sharks,4
+2015,Brumbies,Bulls,22 : 16,Brumbies,6
+2015,Crusaders,Hurricanes,35 : 18,Crusaders,17
+2015,Stormers,Rebels,31 : 15,Stormers,16
+2015,Cheetahs,Lions,17 : 40,Lions,-23
+2015,Western Force,Highlanders,3 : 23,Highlanders,-20
+2015,Waratahs,Crusaders,32 : 22,Waratahs,10
+2015,Blues,Hurricanes,5 : 29,Hurricanes,-24
+2015,Reds,Sharks,14 : 21,Sharks,-7
+2015,Chiefs,Bulls,34 : 20,Chiefs,14
+2015,Cheetahs,Highlanders,24 : 45,Highlanders,-21
+2015,Lions,Brumbies,20 : 30,Brumbies,-10
+2015,Waratahs,Sharks,33 : 18,Waratahs,15
+2015,Hurricanes,Chiefs,22 : 18,Hurricanes,4
+2015,Reds,Rebels,46 : 29,Reds,17
+2015,Blues,Bulls,23 : 18,Blues,5
+2015,Stormers,Brumbies,25 : 24,Stormers,1
+2015,Lions,Highlanders,28 : 23,Lions,5
+2015,Western Force,Waratahs,18 : 11,Western Force,7
+2015,Hurricanes,Sharks,32 : 24,Hurricanes,8
+2015,Rebels,Blues,42 : 22,Rebels,20
+2015,Crusaders,Reds,58 : 17,Crusaders,41
+2015,Bulls,Lions,35 : 33,Bulls,2
+2015,Cheetahs,Stormers,25 : 17,Cheetahs,8
+2015,Rebels,Chiefs,16 : 15,Rebels,1
+2015,Hurricanes,Crusaders,29 : 23,Hurricanes,6
+2015,Blues,Western Force,41 : 24,Blues,17
+2015,Brumbies,Waratahs,10 : 13,Waratahs,-3
+2015,Highlanders,Sharks,48 : 15,Highlanders,33
+2015,Reds,Hurricanes,19 : 35,Hurricanes,-16
+2015,Stormers,Bulls,15 : 13,Stormers,2
+2015,Lions,Cheetahs,34 : 29,Lions,5
+2015,Waratahs,Rebels,18 : 16,Waratahs,2
+2015,Crusaders,Blues,29 : 15,Crusaders,14
+2015,Brumbies,Highlanders,31 : 18,Brumbies,13
+2015,Chiefs,Western Force,35 : 27,Chiefs,8
+2015,Cheetahs,Reds,17 : 18,Reds,-1
+2015,Sharks,Bulls,10 : 17,Bulls,-7
+2015,Western Force,Stormers,6 : 13,Stormers,-7
+2015,Brumbies,Rebels,8 : 13,Rebels,-5
+2015,Highlanders,Blues,30 : 24,Highlanders,6
+2015,Hurricanes,Waratahs,24 : 29,Waratahs,-5
+2015,Crusaders,Chiefs,9 : 26,Chiefs,-17
+2015,Bulls,Reds,43 : 22,Bulls,21
+2015,Lions,Sharks,23 : 21,Lions,2
+2015,Western Force,Cheetahs,15 : 24,Cheetahs,-9
+2015,Waratahs,Stormers,18 : 32,Stormers,-14
+2015,Crusaders,Highlanders,20 : 25,Highlanders,-5
+2015,Blues,Brumbies,16 : 14,Blues,2
+2015,Lions,Bulls,22 : 18,Lions,4
+2015,Sharks,Crusaders,10 : 52,Crusaders,-42
+2015,Brumbies,Cheetahs,20 : 3,Brumbies,17
+2015,Chiefs,Blues,23 : 16,Chiefs,7
+2015,Rebels,Reds,23 : 15,Rebels,8
+2015,Hurricanes,Stormers,25 : 20,Hurricanes,5
+2015,Bulls,Crusaders,31 : 19,Bulls,12
+2015,Sharks,Western Force,15 : 9,Sharks,6
+2015,Waratahs,Blues,23 : 11,Waratahs,12
+2015,Highlanders,Stormers,39 : 21,Highlanders,18
+2015,Chiefs,Cheetahs,37 : 27,Chiefs,10
+2015,Reds,Lions,17 : 18,Lions,-1
+2015,Hurricanes,Rebels,36 : 12,Hurricanes,24
+2015,Waratahs,Brumbies,28 : 13,Waratahs,15
+2015,Sharks,Chiefs,12 : 11,Sharks,1
+2015,Bulls,Western Force,25 : 24,Bulls,1
+2015,Crusaders,Cheetahs,57 : 14,Crusaders,43
+2015,Rebels,Lions,16 : 20,Lions,-4
+2015,Highlanders,Hurricanes,13 : 20,Hurricanes,-7
+2015,Cheetahs,Sharks,10 : 27,Sharks,-17
+2015,Stormers,Chiefs,19 : 28,Chiefs,-9
+2015,Reds,Brumbies,0 : 29,Brumbies,-29
+2015,Highlanders,Waratahs,26 : 19,Highlanders,7
+2015,Crusaders,Lions,34 : 6,Crusaders,28
+2015,Western Force,Rebels,17 : 21,Rebels,-4
+2015,Hurricanes,Blues,30 : 23,Hurricanes,7
+2015,Stormers,Sharks,29 : 13,Stormers,16
+2015,Cheetahs,Bulls,20 : 39,Bulls,-19
+2015,Reds,Waratahs,5 : 23,Waratahs,-18
+2015,Blues,Lions,10 : 13,Lions,-3
+2015,Brumbies,Western Force,27 : 15,Brumbies,12
+2015,Chiefs,Highlanders,17 : 20,Highlanders,-3
+2015,Lions,Stormers,19 : 22,Stormers,-3
+2015,Bulls,Sharks,43 : 35,Bulls,8
+2015,Rebels,Brumbies,15 : 20,Brumbies,-5
+2015,Chiefs,Crusaders,40 : 16,Chiefs,24
+2015,Cheetahs,Blues,25 : 24,Cheetahs,1
+2015,Western Force,Hurricanes,13 : 42,Hurricanes,-29
+2015,Highlanders,Reds,20 : 13,Highlanders,7
+2015,Sharks,Lions,29 : 12,Sharks,17
+2015,Stormers,Blues,27 : 16,Stormers,11
+2015,Reds,Western Force,18 : 6,Reds,12
+2015,Highlanders,Crusaders,20 : 26,Crusaders,-6
+2015,Bulls,Hurricanes,13 : 17,Hurricanes,-4
+2015,Rebels,Waratahs,28 : 38,Waratahs,-10
+2015,Chiefs,Brumbies,19 : 17,Chiefs,2
+2015,Waratahs,Western Force,13 : 25,Western Force,-12
+2015,Bulls,Stormers,17 : 29,Stormers,-12
+2015,Sharks,Cheetahs,29 : 35,Cheetahs,-6
+2015,Blues,Chiefs,18 : 23,Chiefs,-5
+2015,Lions,Hurricanes,8 : 22,Hurricanes,-14
+2015,Brumbies,Reds,47 : 3,Brumbies,44
+2015,Crusaders,Rebels,10 : 20,Rebels,-10
