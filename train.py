@@ -19,14 +19,21 @@ testing_set = pandas.DataFrame(x_test).merge(y_test, left_index = True, right_in
 
 
 engineered_features = []
-for continuous_feature in list(training_set.columns):
-    engineered_features.append(tensorflow.contrib.layers.real_valued_column(continuous_feature))
+#for continuous_feature in list(training_set.columns):
+#engineered_features.append(tensorflow.feature_column.categorical_column_with_hash_bucket(training_set, hash_bucket_size=50))
+     #tf.feature_column.categorical_column_with_hash_bucket(
+      #key="make", hash_bucket_size=50)
 
 
 # Builds the Model Framework
-regressor = tensorflow.contrib.learn.DNNRegressor(feature_columns = engineered_features, activation_fn = tensorflow.nn.relu, hidden_units=[250, 100, 50])
+regressor = tensorflow.estimator.DNNRegressor(feature_columns = training_set.columns,  hidden_units=[250, 100, 50])
+
+regressor.train(input_fn=training_set, steps=1000)
+
+  # Evaluate how the model performs on data it has not yet seen.
+eval_result = regressor.evaluate(input_fn=testing_set)
 
 
-regressor.fit(input_fn = (training_set) , steps=10000)
+#regressor.fit(input_fn = (training_set) , steps=10000)
 
 #print(regressor)
